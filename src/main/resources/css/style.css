@@ -1,0 +1,62 @@
+#btn1 {
+    -fx-background-color: linear-gradient(#778899, #add8e6);
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill:  #2f4f4f;
+    -fx-border-color: #008080;
+}
+
+#btn1:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+#btn2 {
+    -fx-background-color: linear-gradient(#778899, #add8e6);
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill:  #2f4f4f;
+    -fx-border-color: #008080;
+}
+
+#btn2:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+
+#textArea{
+    -fx-control-inner-background: #f0f8ff;
+    -fx-text-fill: #2f4f4f;
+    -fx-font-size: 14px;
+    -fx-highlight-fill: #add8e6;
+    -fx-highlight-text-fill: #008080;
+    -fx-border-color: #008080;
+}
+
+#textField {
+    -fx-control-inner-background: #fffafa;
+    -fx-text-fill: #2f4f4f;
+    -fx-font-size: 14px;
+    -fx-alignment: bottom-left;
+    -fx-highlight-fill: #add8e6;
+    -fx-highlight-text-fill: #008080;
+    -fx-border-color: #008080;
+}
+
+#loginField {
+-fx-control-inner-background: #fffafa;
+    -fx-text-fill: #2f4f4f;
+    -fx-font-size: 14px;
+    -fx-alignment: bottom-left;
+    -fx-highlight-fill: #add8e6;
+    -fx-highlight-text-fill: #008080;
+    -fx-border-color: #008080;
+}
+
+#passwordField{
+-fx-control-inner-background: #fffafa;
+    -fx-text-fill: #2f4f4f;
+    -fx-font-size: 14px;
+    -fx-alignment: bottom-left;
+    -fx-highlight-fill: #add8e6;
+    -fx-highlight-text-fill: #008080;
+    -fx-border-color: #008080;
+}
